@@ -1,3 +1,5 @@
+package august2022;
+
 public class LongestSubstring {
 
     public int lengthOfLongestSubstring(String string){
